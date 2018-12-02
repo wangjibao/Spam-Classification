@@ -1,0 +1,50 @@
+              precision    recall  f1-score   support
+
+           0       0.92      0.92      0.92      1500
+           1       0.92      0.92      0.92      1500
+
+   micro avg       0.92      0.92      0.92      3000
+   macro avg       0.92      0.92      0.92      3000
+weighted avg       0.92      0.92      0.92      3000
+27.272043704986572
+
+              precision    recall  f1-score   support
+
+           0       0.93      0.92      0.92      1500
+           1       0.92      0.93      0.93      1500
+
+   micro avg       0.93      0.93      0.93      3000
+   macro avg       0.93      0.93      0.92      3000
+weighted avg       0.93      0.93      0.92      3000
+27.442720413208008
+
+              precision    recall  f1-score   support
+
+           0       0.92      0.92      0.92      1500
+           1       0.92      0.92      0.92      1500
+
+   micro avg       0.92      0.92      0.92      3000
+   macro avg       0.92      0.92      0.92      3000
+weighted avg       0.92      0.92      0.92      3000
+29.881088972091675
+
+              precision    recall  f1-score   support
+
+           0       0.92      0.90      0.91      1500
+           1       0.90      0.92      0.91      1500
+
+   micro avg       0.91      0.91      0.91      3000
+   macro avg       0.91      0.91      0.91      3000
+weighted avg       0.91      0.91      0.91      3000
+29.529398202896118
+
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92      1500
+           1       0.92      0.93      0.92      1500
+
+   micro avg       0.92      0.92      0.92      3000
+   macro avg       0.92      0.92      0.92      3000
+weighted avg       0.92      0.92      0.92      3000
+24.493006944656372
+
